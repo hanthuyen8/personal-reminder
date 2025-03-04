@@ -22,5 +22,5 @@ val reminderList = listOf(
     Reminder(21, 0, "Go for a walk", 12),
     Reminder(22, 0, "Drink 200ml", 13),
     Reminder(22, 10, "Study", 14),
-    Reminder(23, 30, "Drink 150ml", 15)
+    Reminder(23, 30, "Drink 150ml", 15),
 )
